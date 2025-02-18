@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.20537c43.css",
-    "main.js": "/static/js/main.6b725677.js",
+    "main.css": "/static/css/main.81ade975.css",
+    "main.js": "/static/js/main.35428cf6.js",
     "static/js/361.c948eee3.chunk.js": "/static/js/361.c948eee3.chunk.js",
     "static/js/359.2875568d.chunk.js": "/static/js/359.2875568d.chunk.js",
     "static/js/767.592739cf.chunk.js": "/static/js/767.592739cf.chunk.js",
@@ -71,20 +71,21 @@
     "static/media/Helvetica-Light.woff2": "/static/media/Helvetica-Light.0451133a3374a028ef51.woff2",
     "static/media/Helvetica-Compressed.ttf": "/static/media/Helvetica-Compressed.f5ecf07bf58171863b29.ttf",
     "static/media/HelveticaRounded-Bold.woff": "/static/media/HelveticaRounded-Bold.7033a669a72977891857.woff",
+    "static/media/default.png": "/static/media/default.287eab413579d854abdf.png",
     "static/media/Helvetica-Compressed.woff": "/static/media/Helvetica-Compressed.c30056515109939d534e.woff",
     "static/media/HelveticaRounded-Bold.woff2": "/static/media/HelveticaRounded-Bold.abbe45039718c9611e49.woff2",
     "static/media/track-master.webp": "/static/media/track-master.d23f06e4c924e6da0377.webp",
     "static/media/Helvetica-Compressed.woff2": "/static/media/Helvetica-Compressed.045b7232440734ee1fa3.woff2",
     "index.html": "/index.html",
-    "main.20537c43.css.map": "/static/css/main.20537c43.css.map",
-    "main.6b725677.js.map": "/static/js/main.6b725677.js.map",
+    "main.81ade975.css.map": "/static/css/main.81ade975.css.map",
+    "main.35428cf6.js.map": "/static/js/main.35428cf6.js.map",
     "361.c948eee3.chunk.js.map": "/static/js/361.c948eee3.chunk.js.map",
     "359.2875568d.chunk.js.map": "/static/js/359.2875568d.chunk.js.map",
     "767.592739cf.chunk.js.map": "/static/js/767.592739cf.chunk.js.map",
     "511.f17e0dab.chunk.js.map": "/static/js/511.f17e0dab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20537c43.css",
-    "static/js/main.6b725677.js"
+    "static/css/main.81ade975.css",
+    "static/js/main.35428cf6.js"
   ]
 }
